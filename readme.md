@@ -1,4 +1,4 @@
-# TypeScript Examples
+# TypeScript examples
 
 ## Running the Application
 
